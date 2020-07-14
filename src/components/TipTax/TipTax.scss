@@ -1,24 +1,23 @@
-$tiptax-side-padding: 40px;
-$title-and-bot-padding: 45px;
+$tiptax-padding: 40px;
 
 .tiptax {
 	border: 1px solid rgb(195, 195, 195);
 	border-radius: 5px;
 	margin-top: 100px;
-	padding-bottom: $title-and-bot-padding;
-	padding-left: $tiptax-side-padding;
-	padding-right: $tiptax-side-padding;
+	padding-bottom: 50px;
+	padding-left: $tiptax-padding;
+	padding-right: $tiptax-padding;
 }
 
 h1 {
 	font-family: 'Roboto', sans-serif;
 	margin: 0px;
-	padding-top: $title-and-bot-padding;
-	padding-bottom: 40px;
+	padding-top: $tiptax-padding;
+	padding-bottom: $tiptax-padding;
 }
 
 .mockReceipt {
-	padding-left: 40px;
+	padding-left: $tiptax-padding;
 }
 
 @font-face {
