@@ -11,7 +11,7 @@ and layout elements.
 As you might notice, the main feature missing from this app is the lack of
 states and their corresponding jurisdictions for sales tax information. However, with
 many states having jurisdiction-specific taxes, and hundreds of jurisdictions per
-state, and even with some jurisdicitons having sub-jurisdictions, it is
+state, and even some jurisdicitons having sub-jurisdictions, it is
 unfeasible to manually implement extensive tax data as it would be tedious and a
 tremendous waste of time.
 
