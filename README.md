@@ -2,7 +2,7 @@
 
 This app has been deployed to _AWS Amplify_. **Access the app [here](https://master.d1iemwqyd0h8xm.amplifyapp.com/).**
 
-This project was built as a 'practice run' for React and Redux in a single-page
+This very simple project was built as a 'practice run' for React and Redux in a single-page
 application. This project uses the Material-UI React component for inputs
 and layout elements.
 
